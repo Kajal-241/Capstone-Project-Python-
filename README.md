@@ -1,5 +1,5 @@
 # Capstone-Project-Python-
-This project is about SQL related tasks. There are three dataset given -
+This project is about Python related tasks. There are three dataset given -
 1. Project Dataframe 
 2. Employee Dataframe
 3. Seniority Level Dataframe
